@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Welcome to Jekyll!"
-permalink: /Crimes in San Fransisco
+permalink: /My page
 ---
 
-**Hej Dette er en test**
+# Hej Dette er en test
