@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "Welcome to Jekyll!"
-permalink: /https://kathrinesofier.github.io
+title:  "My page"
+permalink: /My page
 ---
 
-# Hej Dette er en test
+# This is my first plot
+![crime data] (/Images/newplot.png)
