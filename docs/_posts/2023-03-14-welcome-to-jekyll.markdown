@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Welcome to Jekyll!"
-permalink: /My page
+permalink: /https://kathrinesofier.github.io
 ---
 
 # Hej Dette er en test
