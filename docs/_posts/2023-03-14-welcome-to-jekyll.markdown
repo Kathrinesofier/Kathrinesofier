@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "My page"
+title:  "Crimes in San Fransisco"
 permalink: /Mypage
 ---
 
