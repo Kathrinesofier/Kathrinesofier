@@ -16,7 +16,7 @@ Moreover, by examining the characteristics of the incidents, we can identify pat
 
 ## The data set
 
-The dataset offers a comprehensive look into the reported crimes within the San Francisco Police Department. From the bustling streets of downtown to the peaceful neighborhoods of the suburbs, this dataset gives an insight into the date, day of week, time, location and resolution of the different reported crimes.
+The dataset offers a comprehensive look into the reported crimes within the San Francisco Police Department. From the bustling streets of downtown to the peaceful neighborhoods of the suburbs, this dataset gives an insight into the date, day of week, time, location and resolution of the different reported crimes. The 
 
 # The connection between vandalism and theft
 
