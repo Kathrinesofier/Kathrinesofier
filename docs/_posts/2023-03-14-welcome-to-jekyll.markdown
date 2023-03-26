@@ -4,10 +4,6 @@ title:  "Rash of Car Vandalism and Theft Plagues San Francisco Neighborhoods"
 permalink: /Mypage
 ---
 
-## The data set
-
-Welcome to the intriguing world of crime and law enforcement in San Francisco! The dataset offers a comprehensive look into the reported crimes within the San Francisco Police Department. From the bustling streets of downtown to the peaceful neighborhoods of the suburbs, this dataset gives an insight into the date, day of week, time, location and resolution of the different reported crimes.
-
 # The dark side of San Francisco
 
 San Francisco, a vibrant and dynamic city on the west coast of the United States, is known for its iconic landmarks, diverse neighborhoods, and rich cultural heritage. However, amidst the beauty and charm of this city, there is also a darker side - car vandalism and theft. The act of stealing and willfully damaging or defacing public or private property has been a persistent problem in San Francisco, leaving its mark on the city's landscape and sparking public debate.
@@ -17,6 +13,10 @@ In an article called "SFNext: Theft, car break-ins continue to plague San Franci
 Police reports of vandalism and vehicle theft incidents in San Francisco can help us understand the geographical distribution of the problem and identify hotspots where the crimes are more common. This can help law enforcement agencies to target their resources more effectively and develop strategies to prevent or reduce car theft and vandalism in these areas. 
 
 Moreover, by examining the characteristics of the incidents, we can identify patterns and trends. For instance, are there specific times of day or days of the week when car vandalism and theft incidents are more common? By answering these questions, we can gain a better understanding of the factors that contribute to the crimes in San Francisco, and help both the citizens and the law enforcement. [Link to the full article](https://www.cbsnews.com/sanfrancisco/news/sfnext-theft-car-break-ins-san-francisco/){:target="_blank"}{:rel="noopener noreferrer"}
+
+## The data set
+
+Welcome to the intriguing world of crime and law enforcement in San Francisco! The dataset offers a comprehensive look into the reported crimes within the San Francisco Police Department. From the bustling streets of downtown to the peaceful neighborhoods of the suburbs, this dataset gives an insight into the date, day of week, time, location and resolution of the different reported crimes.
 
 # The connection between vandalism and theft
 
