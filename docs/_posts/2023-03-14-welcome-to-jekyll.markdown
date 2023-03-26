@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Rash of Car Vandalism and Theft Plagues San Francisco Neighborhoods"
+title:  "The dark side of San Francisco"
 permalink: /Mypage
 ---
 
