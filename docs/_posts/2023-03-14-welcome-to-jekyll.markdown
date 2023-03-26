@@ -12,11 +12,11 @@ In an article called "SFNext: Theft, car break-ins continue to plague San Franci
 
 Police reports of vandalism and vehicle theft incidents in San Francisco can help us understand the geographical distribution of the problem and identify hotspots where the crimes are more common. This can help law enforcement agencies to target their resources more effectively and develop strategies to prevent or reduce car theft and vandalism in these areas. 
 
-Moreover, by examining the characteristics of the incidents, we can identify patterns and trends. For instance, are there specific times of day or days of the week when car vandalism and theft incidents are more common? By answering these questions, we can gain a better understanding of the factors that contribute to the crimes in San Francisco, and help both the citizens and the law enforcement. [Link to the full article](https://github.com/Kathrinesofier/kathrinesofier.github.io/blob/main/docs/Assignment2.ipynb){:target="_blank"}{:rel="noopener noreferrer"}
+Moreover, by examining the characteristics of the incidents, we can identify patterns and trends. For instance, are there specific times of day or days of the week when car vandalism and theft incidents are more common? By answering these questions, we can gain a better understanding of the factors that contribute to the crimes in San Francisco, and help both the citizens and the law enforcement. [Link to the full article](https://www.cbsnews.com/sanfrancisco/news/sfnext-theft-car-break-ins-san-francisco/){:target="_blank"}{:rel="noopener noreferrer"} 
 
 ## The data set
 
-The dataset offers a comprehensive look into the reported crimes within the San Francisco Police Department. From the bustling streets of downtown to the peaceful neighborhoods of the suburbs, this dataset gives an insight into the date, day of week, time, location and resolution of the different reported crimes. The explanation on how the data are processed and how the plots are made can be found [in this notebook](https://www.cbsnews.com/sanfrancisco/news/sfnext-theft-car-break-ins-san-francisco/){:target="_blank"}{:rel="noopener noreferrer"}
+The dataset offers a comprehensive look into the reported crimes within the San Francisco Police Department. From the bustling streets of downtown to the peaceful neighborhoods of the suburbs, this dataset gives an insight into the date, day of week, time, location and resolution of the different reported crimes. The explanation on how the data are processed and how the plots are made can be found [in this notebook](https://github.com/Kathrinesofier/kathrinesofier.github.io/blob/main/docs/Assignment2.ipynb){:target="_blank"}{:rel="noopener noreferrer"}
 
 # The connection between vandalism and theft
 
