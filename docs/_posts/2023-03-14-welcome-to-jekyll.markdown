@@ -4,11 +4,11 @@ title:  "Rash of Car Vandalism and Theft Plagues San Francisco Neighborhoods"
 permalink: /Mypage
 ---
 
-# The dark side of San Francisco
-
 ## The data set
 
 Welcome to the intriguing world of crime and law enforcement in San Francisco! The dataset offers a comprehensive look into the reported crimes within the San Francisco Police Department. From the bustling streets of downtown to the peaceful neighborhoods of the suburbs, this dataset gives an insight into the date, day of week, time, location and resolution of the different reported crimes.
+
+# The dark side of San Francisco
 
 San Francisco, a vibrant and dynamic city on the west coast of the United States, is known for its iconic landmarks, diverse neighborhoods, and rich cultural heritage. However, amidst the beauty and charm of this city, there is also a darker side - car vandalism and theft. The act of stealing and willfully damaging or defacing public or private property has been a persistent problem in San Francisco, leaving its mark on the city's landscape and sparking public debate.
 
